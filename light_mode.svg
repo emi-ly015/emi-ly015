@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="502" viewBox="0 0 980 502" role="img" aria-label="Emily Lopez profile card">
+<style>
+.bg { fill: #ffffff; }
+.panel { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 1; }
+.title { fill: #0969da; font: 700 24px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+.mono { fill: #24292f; font: 18px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; white-space: pre; }
+.muted { fill: #57606a; font: 16px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+</style>
+<rect class="bg" x="0" y="0" width="980" height="502" rx="18" />
+<rect class="panel" x="20" y="20" width="940" height="462" rx="16" />
+<text class="title" x="42" y="56">Emily Lopez — profile</text>
+<text class="muted" x="42" y="84">Generated with Python → SVG</text>
+<text class="mono" x="48" y="94">           .--.</text>
+<text class="mono" x="360" y="94">Emily Lopez (@emilylopez)</text>
+<text class="mono" x="48" y="118">          |o_o |</text>
+<text class="mono" x="360" y="118"></text>
+<text class="mono" x="48" y="142">          |:_/ |</text>
+<text class="mono" x="360" y="142">Title: ....................................... CS @ NYU</text>
+<text class="mono" x="48" y="166">         //   \ \</text>
+<text class="mono" x="360" y="166">Location: ................................ New York, NY</text>
+<text class="mono" x="48" y="190">        (|     | )</text>
+<text class="mono" x="360" y="190">Education: .......... B.S. Computer Science, NYU Tandon</text>
+<text class="mono" x="48" y="214">       /'\_   _/`\\</text>
+<text class="mono" x="360" y="214"></text>
+<text class="mono" x="48" y="238">       \___)=(___/</text>
+<text class="mono" x="360" y="238">Languages: .. Python, C++, Java, JavaScript, SQL, HTML, CSS</text>
+<text class="mono" x="48" y="262"></text>
+<text class="mono" x="360" y="262">Tools: .. NumPy, Pandas, scikit-learn, OpenCV, Matplotlib, Git, GitHub, VS Code, IntelliJ</text>
+<text class="mono" x="48" y="286"></text>
+<text class="mono" x="360" y="286">Interests: .......................................... S</text>
+<text class="mono" x="48" y="310"></text>
+<text class="mono" x="360" y="310"></text>
+<text class="mono" x="48" y="334"></text>
+<text class="mono" x="360" y="334">Email: ....................... 015emily.lopez@gmail.com</text>
+<text class="mono" x="48" y="358"></text>
+<text class="mono" x="360" y="358">LinkedIn: ............... linkedin.com/in/emily-lopez-/</text>
+<text class="mono" x="48" y="382"></text>
+<text class="mono" x="360" y="382">GitHub: ......................... github.com/emilylopez</text>
+<text class="mono" x="48" y="406"></text>
+<text class="mono" x="360" y="406"></text>
+<text class="mono" x="48" y="430"></text>
+<text class="mono" x="360" y="430">GitHub Stats</text>
+<text class="mono" x="48" y="454"></text>
+<text class="mono" x="360" y="454">Repos: ...................................... update me</text>
+<text class="mono" x="48" y="478"></text>
+<text class="mono" x="360" y="478">Commits: .................................... update me</text>
+</svg>
