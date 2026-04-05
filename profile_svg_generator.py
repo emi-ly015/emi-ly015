@@ -142,14 +142,18 @@ def make_svg(data: ProfileData, theme: str = "dark") -> str:
         '</style>',
         f'<rect class="bg" x="0" y="0" width="{width}" height="{height}" rx="18" />',
         f'<rect class="panel" x="20" y="20" width="{width - 40}" height="{height - 40}" rx="16" />',
-        f'<text class="title" x="42" y="56">{esc(data.name)} — profile</text>',
-        f'<text class="muted" x="42" y="84">Generated with Python → SVG</text>',
+        f'<text class="title" x="42" y="56">{esc(data.name)}</text>',
+        
     ]
 
     ascii_block_width = 260
-    ascii_x = 70
     info_x = 430
 
+    # center ASCII horizontally within its column
+    max_ascii_len = max(len(line) for line in ascii_lines) if ascii_lines else 0
+    ascii_x = 70 + (ascii_block_width - max_ascii_len * 10) // 2
+
+    # vertical centering
     ascii_offset = max(0, (total_lines - len(ascii_lines)) // 2)
 
     for i in range(total_lines):
@@ -173,7 +177,7 @@ def write_files(output_dir: str = ".") -> None:
         languages_programming=["Python", "C++", "Java", "JavaScript", "HTML", "CSS", "SQL (MySQL)"],
         libraries_tools=["NumPy", "Pandas", "scikit-learn", "OpenCV", "Matplotlib"],
         developer_tools=["Git", "GitHub", "VS Code", "Jupyter", "CLion", "IntelliJ IDEA"],
-        interests=["adding soon.."],
+        interests=["add later.."],
         email="015emily.lopez@gmail.com",
         linkedin="linkedin.com/in/emily-lopez-/",
         github="github.com/emilylopez",
