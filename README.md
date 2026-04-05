@@ -5,7 +5,7 @@
 ```
 ┌────────────────────────────────────────────────────────────────────────────┐
 │  SYS: creative-profile-readme / terminal theme                             │
-│  USER: emi-ly015                                                            │
+│  USER: emi-ly015                                                           │
 │  HOST: github.com                                                          │
 │  SHELL: zsh                                                                │
 │  THEME: neon-noir                                                          │
@@ -34,10 +34,6 @@ $ skills --list
 Languages      : Python, C++, Java, JavaScript, HTML, CSS, SQL (MySQL)
 ML/Frameworks  : NumPy, Pandas, scikit-learn, OpenCV, Matplotlib
 Developer Tools: Git, GitHub, VS Code, Jupyter, CLion, IntelliJ IDEA
-
-$ current --now
-Learning   : CS 
-Building   : random things I like
 
 $ exit
 logout
