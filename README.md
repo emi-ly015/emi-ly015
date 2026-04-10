@@ -4,7 +4,7 @@
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────┐
-│  SYS: creative-profile-readme / terminal theme                             │
+│  SYS: profile-readme / terminal theme                             │
 │  USER: emi-ly015                                                           │
 │  HOST: github.com                                                          │
 │  SHELL: zsh                                                                │
@@ -26,7 +26,7 @@ emi-ly015
 			<pre>
 $ cat /etc/profile.d/about
 I’m currently studying CS at NYU with a minor in studio art and game engineering.
-Here you can find some coursework and projects.
+Here you can find some of my coursework and projects.
 
 <br>
 
