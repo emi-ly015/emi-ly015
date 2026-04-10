@@ -4,7 +4,7 @@
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────┐
-│  SYS: profile-readme / terminal theme                             │
+│  SYS: profile-readme / terminal theme                           		     │
 │  USER: emi-ly015                                                           │
 │  HOST: github.com                                                          │
 │  SHELL: zsh                                                                │
