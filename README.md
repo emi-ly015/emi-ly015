@@ -31,7 +31,7 @@ Here you can find some of my coursework and projects.
 <br>
 
 $ skills --list
-Languages      : Python, C++, Java, JavaScript, HTML, CSS, SQL (MySQL)
+Languages      : Python, C++, Java, HTML, CSS, SQL (MySQL)
 ML/Frameworks  : NumPy, Pandas, scikit-learn, OpenCV, Matplotlib
 Developer Tools: Git, GitHub, VS Code, Jupyter, CLion, IntelliJ IDEA
 
