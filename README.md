@@ -33,7 +33,6 @@ Here you can find some of my coursework and projects.
 $ skills --list
 Languages      : Python, C++, Java, HTML, CSS, SQL (MySQL)
 ML/Frameworks  : NumPy, Pandas, OpenCV, Matplotlib
-Developer Tools: Git, GitHub, VS Code, Jupyter, CLion
 
 $ exit
 logout
