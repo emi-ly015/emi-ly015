@@ -44,12 +44,3 @@ logout
 
 ---
 
-
-<div align="center">
-
-```
-$ printf "thanks for stopping by"
-thanks for stopping by
-```
-
-</div>
